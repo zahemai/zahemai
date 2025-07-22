@@ -1,0 +1,6 @@
+requests
+openai
+pandas
+MetaTrader5
+Flask
+PyQt5
